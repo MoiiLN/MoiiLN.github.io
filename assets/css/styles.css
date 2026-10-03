@@ -630,7 +630,7 @@ select {
 .contact-section {
   padding: 100px 0;
   border-top: 1px solid var(--line);
-  background: var(--red);
+  background: #09090a;
 }
 
 .contact-inner {
